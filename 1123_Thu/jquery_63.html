@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz63</title>
+    <style>
+        .test{
+            width:400px;
+            height: 400px;
+            background-color:pink;
+        }
+
+        #display('none');
+    </style>
+    <script src="./js/jquery-3.2.1.min.js"></script>
+    <script>
+     $(document).ready(function() {
+        $('#two').css('display', 'none');
+        $('#one').hide(1000);
+
+        $('#one').css('background-color', 'blue');
+        $('#two').css('background-color', 'pink');
+        $('#two').show(1000);
+
+        });
+    </script>
+</head>
+<body>
+    <div class="test" id="one">hello world one</div>
+    <div class="test" id="two">hello world two</div>
+</body>
+</html>
