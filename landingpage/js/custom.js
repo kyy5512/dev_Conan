@@ -39,10 +39,40 @@ $(function() {
      http://owlcarousel2.github.io/OwlCarousel2/
 ===================================================*/
 
-$(function() {
-  // Handler for .ready() called.
-   $(".owl-carousel").owlCarousel({
+$(function(){
+   $("#team-members").owlCarousel({
         items: 3,
-   });
+        autoplay:true,
+        smartSpeed: 700,
+        loop: true,
+        autoplayHoverPause:true
 
+    });
+});
+
+
+/*================================================
+    testimonials
+===================================================*/
+
+$(function(){
+   $("#clients-list").owlCarousel({
+        items: 4,
+        autoplay:true,
+        smartSpeed: 700,
+        loop: true,
+        autoplayHoverPause:true
+
+    });
+});
+
+/*================================================
+                counterup
+    http://github.com/ciromattia/jquery.counterup
+===================================================*/
+$(function(){
+   $('.counter').counterUp({
+    delay: 10,
+    time: 2000,
+    });
 });
