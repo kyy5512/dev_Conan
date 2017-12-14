@@ -2,20 +2,27 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>quiz85</title>
+    <title>quiz87</title>
     <script src="./js/jquery-3.2.1.min.js"></script>
     <script>
     $(document).ready(function() {
-        var size = 15;
-        $('ul li').each(function(index){
-            $(this).css('font-size', size+index);
-    })
+        var css_attr = ['background','color','font-size'];
+        var color_v = ['red', 'pink', 'black', 'orange'];
+        var font_size = 20;
     });
+
+   $('ul li').each(function(index){
+        if(index <2){
+        $(this).css(css_attr[index], color_v[index]);
+          }else if (index
+
+
+}
+
     </script>
 </head>
 <body>
     <ul>
-        <li>hello world</li>
         <li>hello world</li>
         <li>hello world</li>
         <li>hello world</li>

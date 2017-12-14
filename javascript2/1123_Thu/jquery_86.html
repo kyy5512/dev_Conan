@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz86</title>
+    <script src="./js/jquery-3.2.1.min.js"></script>
+    <script>
+    $(document).ready(function() {
+        var $el =$('li').eq(3);
+       //컬러값
+       var color_value = $el.css('color')
+
+       var font_size_value =$el.css('font-size')
+
+        //인덱스값
+       var ind =$('ul li').eq(3).index();
+
+
+
+        $('ul:eq(1) li').eq(ind).css({
+            'color': $('color');
+            'font-size': $('font-size');
+        });
+    });
+    </script>
+</head>
+<body>
+    <ul>
+        <li>hello world</li>
+        <li>hello world</li>
+        <li>hello world</li>
+        <li style="color:green; font-size:20px;">hello world</li>
+    </ul>
+    <ul>
+        <li>hello world</li>
+        <li>hello world</li>
+        <li>hello world</li>
+        <li>hello world</li>
+    </ul>
+</body>
+</html>

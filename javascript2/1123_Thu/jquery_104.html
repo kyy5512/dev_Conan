@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quiz104</title>
+    <style>
+        div{
+            width: 500px;
+            height: 500px;
+            background-color:pink;
+            position: relative;
+        }
+
+    </style>
+    <script src="jquery-3.2.1.js"></script>
+    <script>
+    $(document).ready(function() {
+        $('div').mouseenter(function (event) {
+           var x_position = event.clientX;
+           var y_position = event.clientY;
+            $(this).find('h1').eq(0).text('X좌표는: ' + x_position );
+            $(this).find('h1').eq(1).text('y좌표는: ' + y_position );
+
+
+        });
+
+
+    });
+    </script>
+</head>
+<body>
+   <div>
+       <h1>X좌표 : </h1>
+       <h1>Y좌표 : </h1>
+   </div>
+</body>
+</html>

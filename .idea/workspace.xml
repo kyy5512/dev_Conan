@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a65dd502-d11e-4a14-b270-10a60ba99f21" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/탭메뉴와 팹패널 연동/js/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/compare2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/img/boating.jpg" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/img/boating.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/img/morning.jpg" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/img/morning.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_18.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_18.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_19.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_19.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_20.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_20.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_21.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_21.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_22.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_22.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_23.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_23.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_24.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_24.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_25.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_25.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_26.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_26.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_27.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_27.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_28.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_28.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_29.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_29.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_30.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_30.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_31.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_31.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_32.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_32.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_33.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_33.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_34.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_34.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_35.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_35.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_36.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_36.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_37.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_37.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_38.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_38.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_39.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_39.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_40.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_40.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_41.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_41.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_42.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_42.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_43.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_43.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_44.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_44.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_45.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_45.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_46.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_46.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_47.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_47.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_48.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_48.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_49.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_49.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_50.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_50.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_51.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_51.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_52.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_52.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_53.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_53.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_54.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_54.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_55.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_55.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_56.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_56.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_57.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_57.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_58.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_58.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_59.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_59.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_60.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_60.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_61.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_61.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_62.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_62.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_63.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_64.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_64.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_65.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_65.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_66.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_66.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_67.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_67.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_68.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_68.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_69.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_69.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_70.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_71.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_71.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_72.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_72.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_73.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_73.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_74.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_74.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_75.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_75.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_76.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_76.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_77.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_77.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_78.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_78.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_79.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_79.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_80.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_80.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_81.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_81.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_82.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_82.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_83.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_83.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_84.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_84.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/jquery_85.html" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/jquery_85.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/js/jquery-3.2.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/js/jquery.js" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/js/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/js/script.js" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/js/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1123_Thu/js/script1.js" afterPath="$PROJECT_DIR$/javascript2/1123_Thu/js/script1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landingpage/css/owl-carousel/owl.theme.default.css" afterPath="$PROJECT_DIR$/landingpage/css/owl-carousel/owl.theme.default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landingpage/index.html" afterPath="$PROJECT_DIR$/landingpage/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="accordion.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript2/1123_Thu/아코디언/accordion.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="66" column="36" lean-forward="false" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tooltip.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript2/1123_Thu/툴팁/tooltip.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/javascript2/1123_Thu/탭메뉴와 팹패널 연동/js/index2.html" />
+        <option value="$PROJECT_DIR$/javascript2/1123_Thu/탭메뉴와 팹패널 연동/index.html" />
+        <option value="$PROJECT_DIR$/landingpage/compare.html" />
+        <option value="$PROJECT_DIR$/landingpage/index.html" />
+        <option value="$PROJECT_DIR$/landingpage/compare2.html" />
+        <option value="$PROJECT_DIR$/javascript2/1123_Thu/아코디언/accordion.html" />
+        <option value="$PROJECT_DIR$/javascript2/1123_Thu/툴팁/tooltip.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="869" />
+    <option name="y" value="128" />
+    <option name="width" value="1131" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript2" type="462c0819:PsiDirectoryNode" />
+              <item name="1123_Thu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript2" type="462c0819:PsiDirectoryNode" />
+              <item name="1123_Thu" type="462c0819:PsiDirectoryNode" />
+              <item name="툴팁" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="landingpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="landingpage" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_project/source" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\esponsive_web\source\landingpage\css\owl-carousel" />
+      <recent name="C:\esponsive_web\source\landingpage\js\owl-carousel" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a65dd502-d11e-4a14-b270-10a60ba99f21" name="Default" comment="" />
+      <created>1513141545148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513141545148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17352185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/landingpage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript2/1123_Thu/탭메뉴와 팹패널 연동/js/jquery-3.2.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript2/1123_Thu/탭메뉴와 팹패널 연동/js/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript2/1123_Thu/탭메뉴와 팹패널 연동/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="67" column="38" lean-forward="true" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2991">
+          <caret line="841" column="0" lean-forward="true" selection-start-line="841" selection-start-column="0" selection-end-line="841" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/compare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="843" column="23" lean-forward="true" selection-start-line="843" selection-start-column="23" selection-end-line="843" selection-end-column="23" />
+          <folding>
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#31545#31551#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript2/1123_Thu/아코디언/accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="66" column="36" lean-forward="false" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/compare2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="403" column="34" lean-forward="true" selection-start-line="403" selection-start-column="34" selection-end-line="403" selection-end-column="34" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#29524#29530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript2/1123_Thu/툴팁/tooltip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
